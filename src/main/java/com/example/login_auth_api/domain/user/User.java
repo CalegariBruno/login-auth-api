@@ -1,4 +1,4 @@
-package com.example.login_auth_api.domain;
+package com.example.login_auth_api.domain.user;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
